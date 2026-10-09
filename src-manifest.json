@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-10-09T10:25:34.470Z",
+  "sha": "5e651960a8914f7a2e83d148be4264fb05655886",
+  "files": [
+    "index.js"
+  ],
+  "srcRoot": "src",
+  "regions": [
+    {
+      "selector": "#out",
+      "label": "Out",
+      "file": "index.html",
+      "line": 4,
+      "files": [
+        {
+          "file": "index.html",
+          "line": 4
+        }
+      ]
+    }
+  ],
+  "hasDom": true,
+  "lens": "ui"
+}
