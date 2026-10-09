@@ -1,0 +1,12 @@
+{
+  "name": "offboard-sandbox",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Throwaway repo for exercising onboard / refresh / offboard. Safe to delete.",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test",
+    "test:run": "node --test"
+  }
+}
